@@ -1,0 +1,54 @@
+{
+  "groups": [
+    {
+      "name": "com.hardik.iris.swagger",
+      "type": "com.hardik.iris.configuration.properties.OpenApiConfigurationProperties",
+      "sourceType": "com.hardik.iris.configuration.properties.OpenApiConfigurationProperties"
+    },
+    {
+      "name": "com.hardik.iris.swagger.properties",
+      "type": "com.hardik.iris.configuration.properties.OpenApiConfigurationProperties$Properties",
+      "sourceType": "com.hardik.iris.configuration.properties.OpenApiConfigurationProperties",
+      "sourceMethod": "getProperties()"
+    },
+    {
+      "name": "com.hardik.iris.swagger.properties.contact",
+      "type": "com.hardik.iris.configuration.properties.OpenApiConfigurationProperties$Properties$Contact",
+      "sourceType": "com.hardik.iris.configuration.properties.OpenApiConfigurationProperties$Properties",
+      "sourceMethod": "getContact()"
+    }
+  ],
+  "properties": [
+    {
+      "name": "com.hardik.iris.swagger.properties.api-version",
+      "type": "java.lang.String",
+      "sourceType": "com.hardik.iris.configuration.properties.OpenApiConfigurationProperties$Properties"
+    },
+    {
+      "name": "com.hardik.iris.swagger.properties.contact.email",
+      "type": "java.lang.String",
+      "sourceType": "com.hardik.iris.configuration.properties.OpenApiConfigurationProperties$Properties$Contact"
+    },
+    {
+      "name": "com.hardik.iris.swagger.properties.contact.name",
+      "type": "java.lang.String",
+      "sourceType": "com.hardik.iris.configuration.properties.OpenApiConfigurationProperties$Properties$Contact"
+    },
+    {
+      "name": "com.hardik.iris.swagger.properties.contact.url",
+      "type": "java.lang.String",
+      "sourceType": "com.hardik.iris.configuration.properties.OpenApiConfigurationProperties$Properties$Contact"
+    },
+    {
+      "name": "com.hardik.iris.swagger.properties.description",
+      "type": "java.lang.String",
+      "sourceType": "com.hardik.iris.configuration.properties.OpenApiConfigurationProperties$Properties"
+    },
+    {
+      "name": "com.hardik.iris.swagger.properties.title",
+      "type": "java.lang.String",
+      "sourceType": "com.hardik.iris.configuration.properties.OpenApiConfigurationProperties$Properties"
+    }
+  ],
+  "hints": []
+}

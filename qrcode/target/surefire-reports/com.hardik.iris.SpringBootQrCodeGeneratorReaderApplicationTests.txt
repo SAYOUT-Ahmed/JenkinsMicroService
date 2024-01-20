@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.hardik.iris.SpringBootQrCodeGeneratorReaderApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.62 s - in com.hardik.iris.SpringBootQrCodeGeneratorReaderApplicationTests
